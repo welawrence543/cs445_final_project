@@ -57,9 +57,8 @@ class _HomePageState extends State<HomePage> {
                             onPressed: null,
                             child: null))
                   ])), //item 1
-
               Flexible(
-                child: Text("Item 2"),
+                child: Text("commit test"),
               ), //item 2
               Flexible(child: Text("Item 3")) //item 3
             ]), //end of row 1
